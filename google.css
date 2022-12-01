@@ -1,0 +1,64 @@
+img{
+    display: block;
+    margin: auto;
+    margin-top: auto;
+    position: absolute;
+    left: 42%;
+    top: 20%;
+    margin-top: -20px;
+    margin-left: -50px;
+}
+
+.boxbig{
+    background-color: rgb(232, 232, 232);
+    width: 800px;
+    height: 50px;
+    margin: auto;
+    margin-top: 15%;
+    margin-left: 26%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 0 0 50px 0;
+    font-size: 120%;
+    
+}
+
+.card1{
+    background-color:rgb(14, 237, 237);
+    width: 297px;
+    height: 70px;
+    margin-left:26%;
+    font-size: 120%;
+    padding: 15px 0 15px 0;
+
+}
+
+.card2{
+    background-color:rgb(71, 204, 204);
+    width: 171px;
+    height: 80px;
+    margin-left:3px;
+    font-size: 100%;
+    padding: 10px 0 10px 0;
+
+}
+.card3{
+    background-color:rgb(8, 157, 157);
+    width: 326px;
+    height: 80px;
+    margin-left:3px;
+    font-size: 100%;
+    padding: 10px 0 10px 0 ;
+
+}
+.same{
+    float: left;
+    margin-top: 3px;
+    text-align: center;
+}
+
+.btn{
+    display: flex;
+    gap: 5px;
+}
